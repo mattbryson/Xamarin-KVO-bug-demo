@@ -13,8 +13,8 @@ When the app boots, `CheckValue` is programatically set, which triggers ONE obse
 But when you press the check box, it triggers TWO observer calls, and logs twice to the text area.
 
 
-(1.png)
+[](1.png)
 
-(1.png)
+[](1.png)
 
 
