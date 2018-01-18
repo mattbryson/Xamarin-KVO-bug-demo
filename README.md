@@ -6,7 +6,7 @@ Binding Observer fires twice when bound to Xcode UI component.
 
 The main area is here:
 
-[ViewController.cs](ViewController.cs)
+[ViewController.cs](KV0Demo/ViewController.cs)
 
 When the app boots, `CheckValue` is programatically set, which triggers ONE observer call (and one log to the text area)
 
