@@ -15,6 +15,6 @@ But when you press the check box, it triggers TWO observer calls, and logs twice
 
 ![](1.png)
 
-![](1.png)
+![](2.png)
 
 
