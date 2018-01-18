@@ -42,17 +42,6 @@ namespace KV0Demo
             LogField.StringValue = LogField.StringValue + "\n" +  msg;
         }
 
-        public override NSObject RepresentedObject
-        {
-            get
-            {
-                return base.RepresentedObject;
-            }
-            set
-            {
-                base.RepresentedObject = value;
-                // Update the view, if already loaded.
-            }
-        }
+  
     }
 }
